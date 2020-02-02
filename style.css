@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+    margin: auto;
+    width: 900px;
+    
+    
+    
+    }
+    .btn {
+        background: teal;
+        
+        
+      
+    }
+    #timer {
+position:absolute;
+top:0px;
+right:0px;
+
+}
+
+#quiz{
+
+}
+#input {
+    text-align: center;
+}
+
+
